@@ -1,4 +1,3 @@
-@"
 # Week 1 - Python & Data Engineering Assessment
 
 ## Project Structure
